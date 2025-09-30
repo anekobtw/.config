@@ -1,6 +1,14 @@
 # .config
 My OS is [Omarchy](https://omarchy.org/)
 
+The theme I use is `Osaka Jade` (will probably be changed later)
+
+I really love MapleMono font, so:
+
+```bash
+yay -S maplemono-nf-unhinted
+```
+
 # Wifi
 Default WiFi driver is `rtw89-8852be` which is very buggy, so I use this instead
 
@@ -21,15 +29,12 @@ cat ~/.ssh/id_ed25519.pub
 
 
 # Editor
-Usually I would `nvim` but since `lazyvim` is pre-installed and meets my requirements, I'm not changing anything
+Usually I would download and configure `nvim` but since `lazyvim` is pre-installed and meets all my requirements, I'm not changing anything
 
 # Packages
-I use external Packages
+Omarchy has a lot of packages pre-installed but I still I always download this
 
 ```bash
 yay -S telegram-desktop
 ```
-```
-```
-
 
