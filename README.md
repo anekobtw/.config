@@ -13,6 +13,23 @@ echo "blacklist rtw89-8852be" | sudo tee /etc/modprobe.d/rtw89_blacklist.conf
 In order to connect my git to GitHub:
 
 ```bash
+git config --global user.email "your_email@example.com"
+git config --global user.name "your_name"
 ssh-keygen -t ed25519 -C "your_email@example.com"
 cat ~/.ssh/id_ed25519.pub
 ```
+
+
+# Editor
+Usually I would `nvim` but since `lazyvim` is pre-installed and meets my requirements, I'm not changing anything
+
+# Packages
+I use external Packages
+
+```bash
+yay -S telegram-desktop
+```
+```
+```
+
+
