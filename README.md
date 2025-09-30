@@ -1,5 +1,5 @@
 # .config
-My OS is Omarchy
+My OS is [Omarchy](https://omarchy.org/)
 
 # Wifi
 Default WiFi driver is `rtw89-8852be` which is very buggy, so I use this instead
